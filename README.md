@@ -14,3 +14,7 @@ dvc init
 dvc repro
 
 dvc dag
+
+
+## YT chrome plugin
+chrome://extensions

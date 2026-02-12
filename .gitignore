@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 data/*
+
+.env
+experiment_info.json
+mlruns/
+*.log
+
+
 # Distribution / packaging
 .Python
 build/
@@ -205,3 +212,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/lgbm_model.pkl
+/tfidf_vectorizer.pkl
